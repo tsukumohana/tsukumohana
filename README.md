@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning object detection and tracking
+
+
 <!--
 **tsukumohana/tsukumohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
